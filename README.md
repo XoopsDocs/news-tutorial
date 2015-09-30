@@ -14,7 +14,7 @@
 
 With this XOOPS module, you can create an unlimited number of news on your site. You can create all the articles you want and attach them to topics.
 
-![image001.png](assets/image001.png)
+![image001.png](assets/image001.jpg)
 *Figure 1: Main view of the News Module (Admin side)*
 
 # Table of Content
